@@ -1,0 +1,2 @@
+-r plugins/seu_lectures/requirements.txt
+ncatbot5==5.5.6
